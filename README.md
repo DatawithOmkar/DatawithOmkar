@@ -38,13 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="your-github-username" />
-</p>
-
----
-
 ## 🤖 Random Data Science Joke Generator
 
 Want a quick laugh? Here’s a random **data-related joke** for you:
@@ -52,6 +45,8 @@ Want a quick laugh? Here’s a random **data-related joke** for you:
 > ![Joke Loading...](https://readme-jokes.vercel.app/api?theme=default)
 
 (Refresh the page for a new one!)
+
+---
 
 
 ### 📚 Featured Projects:
