@@ -45,6 +45,15 @@
 
 ---
 
+## 🤖 Random Data Science Joke Generator
+
+Want a quick laugh? Here’s a random **data-related joke** for you:
+
+> ![Joke Loading...](https://readme-jokes.vercel.app/api?theme=default)
+
+(Refresh the page for a new one!)
+
+
 ### 📚 Featured Projects:
 #### 🚀 **[Restaurant Data Analysis](https://github.com/your-github-username/restaurant-data-analysis)**
 - Cleaned and analyzed restaurant data using Pandas and Matplotlib.  
