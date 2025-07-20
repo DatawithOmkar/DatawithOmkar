@@ -50,13 +50,14 @@ Want a quick laugh? Here’s a random **data-related joke** for you:
 
 
 ### 📚 Featured Projects:
-#### 🚀 **[Restaurant Data Analysis](https://github.com/your-github-username/restaurant-data-analysis)**
-- Cleaned and analyzed restaurant data using Pandas and Matplotlib.  
-- Visualized ratings and price distribution using Plotly.
 
 #### 🔥 **[Airline Data Analysis using AWS,EMR,Hadoop,Hive](https://github.com/DatawithOmkar/Airline-Delay-Analysis-using-AWS-EMR-Hive-Tableau)**
 - Automated ETL pipelines using AWS EMR & Hive.  
 - Optimized dataset processing, improving speed by 70%.
+
+#### 🚀 **[Restaurant Data Analysis](https://github.com/your-github-username/restaurant-data-analysis)**
+- Cleaned and analyzed restaurant data using Pandas and Matplotlib.  
+- Visualized ratings and price distribution using Plotly.
 
 #### 📈 **[SQL Reporting Automation](https://github.com/your-github-username/sql-reporting-automation)**
 - Developed SQL queries for airway bill tracking in import-export workflows.  
