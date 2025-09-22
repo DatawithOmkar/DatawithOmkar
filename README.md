@@ -55,13 +55,15 @@ Want a quick laugh? Here’s a random **data-related joke** for you:
 - Automated ETL pipelines using AWS EMR & Hive.  
 - Optimized dataset processing, improving speed by 70%.
 
-#### 🚀 **[Restaurant Data Analysis](https://github.com/your-github-username/restaurant-data-analysis)**
-- Cleaned and analyzed restaurant data using Pandas and Matplotlib.  
+#### 🚀 **[Restaurant Data Analysis](https://github.com/DatawithOmkar/Restaurant_Data_Analysis)**
+- Developed a sentiment analysis pipeline using DistilBERT to classify 10K+ restaurant reviews.
+- Built interactive Plotly dashboards to visualize sentiment distribution, keyword trends, and customer experience patterns,
+driving data-backed operational improvements. 
 - Visualized ratings and price distribution using Plotly.
 
-#### 📈 **[SQL Reporting Automation](https://github.com/your-github-username/sql-reporting-automation)**
-- Developed SQL queries for airway bill tracking in import-export workflows.  
-- Automated reporting using Power BI SSRS.
+#### 📈 **[Walmart Data Analysis](https://github.com/DatawithOmkar/Walmart_Sales_Analysis)**
+- Orchestrated an end-to-end ETL pipeline using Python, SQL (MySQL & PostgreSQL), and Pandas to clean, transform, and analyze Walmart sales data, uncovering sales trends, customer behavior, and revenue patterns.
+- Delivered actionable insights on branch performance, seasonal sales peaks, and profitability drivers, with recommendations for inventory optimization and customer segmentation.
 
 ---
 
